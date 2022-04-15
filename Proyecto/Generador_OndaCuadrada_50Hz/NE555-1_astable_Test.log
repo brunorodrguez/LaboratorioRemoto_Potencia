@@ -1,0 +1,21 @@
+Circuit: * C:\Users\santi\OneDrive\Escritorio\Facu\2022\Potencia\Tps\LaboratorioRemoto_Potencia\Proyecto\Generador_OndaCuadrada_50Hz\NE555-1_astable_Test.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Apr 15 01:13:20 2022
+Total elapsed time: 0.045 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4215
+traniter = 4207
+tranpoints = 892
+accept = 689
+rejected = 203
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 384 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 776 bytes object code size  0.1/0.1/[0.1]
+
